@@ -1,0 +1,20 @@
+aceita comandos linux
+
+$ps + tab
+cd \ + tab
+
+get-host
+get-date
+get-help
+get-hel [comando]
+get-command -commandType
+get-[nome-do-comando ou letras-inicias] + [barra-de-espaço]
+
+show-command
+ni [nome-do-arquivo]
+rni [mome-atual-do-arquivo] [novo-nome-do-arquivo]
+cp [nome-do-arquivo] [nome-da-copia-do-arquivo]
+cp [nome-do-arquivo] [novo-caminho-do-arquivo]
+mv [nome-do-arquivo] [destino-do-arquivo]
+erase [nome-do-arquivo]
+
