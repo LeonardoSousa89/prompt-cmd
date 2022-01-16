@@ -1,0 +1,10 @@
+COMANDOS BÁSICOS:
+
+*CLS       *Date
+*Echo      *Time
+*Vol       *Start
+*Ver       *Winver
+*Clip      *Exit
+
+*Title     *Mode
+*Color     *Prompt

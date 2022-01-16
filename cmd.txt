@@ -87,6 +87,7 @@ md /?
 cd /?
 rd /?
 move /?
+prompt /?
 copy /?
 diskpart /?
 chkdsk /?
@@ -99,6 +100,8 @@ cls /?
 edit /?
 if /?
 rem /?
+doskey /?
+mode /?
 regedit
 wf.msc  (firewall)
 tasklist

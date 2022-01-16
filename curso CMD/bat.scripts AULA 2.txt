@@ -1,0 +1,18 @@
+COMANDOS BÁSICOS:
+
+*CLS       *Date
+*Echo      *Time
+*Vol       *Start
+*Ver       *Winver
+*Clip      *Exit
+
+*Title     *Mode
+*Color     *Prompt
+
+esc  		   - limpa os campos digitados
+f7   		   - mostra o histórico de comandos utilizados
+seta cima | baixo  - o mesmo que f7
+f9  		   - reutiliza um comando a partir de sua ordem
+alt + f7	   - limpa o histórico de comandos
+f8		   - mesmo que setas
+alt + f10	   - limpa as definições de macros
